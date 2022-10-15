@@ -4,7 +4,7 @@
 
 //If someone's solo on the server chuck some bots in with them, otherwise eff off bots
 if ( sv_activeClients = 1 ) {
-	$bot_minplayers = 3;
+	$bot_minplayers = 2;
 } else {
 	$bot_minplayers = 0;
 	exec("kick allbots");
