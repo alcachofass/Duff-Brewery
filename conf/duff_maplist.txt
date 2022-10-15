@@ -1,0 +1,13 @@
+^1Voteable maps on this server:^7
+
+^4- ^7All the standard Q3 DM maps ^4(q3dm1-19)
+^4- ^7All the standard Q3 Tourney maps ^4(q3tourney1-6)
+^4- ^7All the standard Q3 CTF maps ^4(q3ctf1-4)
+^4- ^7The Campgrounds Remix ^4(pro-q3dm6)
+^4- ^7Lost World Remix ^4(pro-q3dm13)
+^4- ^7Vertical Vengeance Remix ^4(pro-q3tourney4)
+^4- ^7Almost Lost ^4(pro-q3tourney7)
+^4- ^7Gloves Off ^4(foo3dm4)
+^4- ^7Blood Run Tourney ^4(ztn3tourney1)
+
+^1Usage: ^7/callvote map ^1<^7mapName^1>
