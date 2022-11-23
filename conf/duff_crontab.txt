@@ -1,2 +1,1 @@
-*/9 * * * *	/say ^7[^1INFO^7] ^1If you don't have .cfg for this mod please type ^7/exec q3plus ^1for green enemy and other basic settings.
-*/7 * * * *     /say ^7[^1INFO^7] ^1This is the sex-havers' club server. Virginia is for lovers. www.quake3world.com
+*/7 * * * *     /say ^7[^1INFO^7] ^1This is the sex-havers' club server. West Coast is the best coast. ^7www.quake3world.com
